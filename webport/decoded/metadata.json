@@ -1,0 +1,4802 @@
+{
+  "avatar_props__adult_female_props.bin": {
+    "total": 194,
+    "decoded": 159,
+    "sprites": [
+      {
+        "index": 0,
+        "w": 56,
+        "h": 85,
+        "ox": -32.0,
+        "oy": -50.19,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s000.png"
+      },
+      {
+        "index": 1,
+        "w": 54,
+        "h": 41,
+        "ox": -33.88,
+        "oy": -20.0,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s001.png"
+      },
+      {
+        "index": 2,
+        "w": 50,
+        "h": 48,
+        "ox": -24.56,
+        "oy": -23.75,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s002.png"
+      },
+      {
+        "index": 3,
+        "w": 50,
+        "h": 48,
+        "ref": true
+      },
+      {
+        "index": 4,
+        "w": 50,
+        "h": 48,
+        "ref": true
+      },
+      {
+        "index": 5,
+        "w": 36,
+        "h": 41,
+        "ox": -16.0,
+        "oy": -19.88,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s005.png"
+      },
+      {
+        "index": 6,
+        "w": 36,
+        "h": 41,
+        "ox": -17.38,
+        "oy": -19.31,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s006.png"
+      },
+      {
+        "index": 7,
+        "w": 36,
+        "h": 41,
+        "ref": true
+      },
+      {
+        "index": 8,
+        "w": 22,
+        "h": 22,
+        "ox": -8.88,
+        "oy": -17.44,
+        "colors": 119,
+        "file": "avatar_props__adult_female_props_s008.png"
+      },
+      {
+        "index": 9,
+        "w": 53,
+        "h": 77,
+        "ox": -34.44,
+        "oy": -50.62,
+        "colors": 74,
+        "file": "avatar_props__adult_female_props_s009.png"
+      },
+      {
+        "index": 10,
+        "w": 53,
+        "h": 43,
+        "ox": -31.88,
+        "oy": -19.5,
+        "colors": 111,
+        "file": "avatar_props__adult_female_props_s010.png"
+      },
+      {
+        "index": 11,
+        "w": 69,
+        "h": 62,
+        "ox": -35.5,
+        "oy": -17.25,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s011.png"
+      },
+      {
+        "index": 12,
+        "w": 69,
+        "h": 59,
+        "ox": -36.5,
+        "oy": -13.94,
+        "colors": 79,
+        "file": "avatar_props__adult_female_props_s012.png"
+      },
+      {
+        "index": 13,
+        "w": 69,
+        "h": 59,
+        "ref": true
+      },
+      {
+        "index": 14,
+        "w": 23,
+        "h": 21,
+        "ox": -9.5,
+        "oy": -17.44,
+        "colors": 46,
+        "file": "avatar_props__adult_female_props_s014.png"
+      },
+      {
+        "index": 15,
+        "w": 9,
+        "h": 9,
+        "ox": -4.12,
+        "oy": -4.0,
+        "colors": 25,
+        "file": "avatar_props__adult_female_props_s015.png"
+      },
+      {
+        "index": 16,
+        "w": 9,
+        "h": 9,
+        "ox": -4.12,
+        "oy": -4.0,
+        "colors": 27,
+        "file": "avatar_props__adult_female_props_s016.png"
+      },
+      {
+        "index": 17,
+        "w": 9,
+        "h": 9,
+        "ox": -4.12,
+        "oy": -4.0,
+        "colors": 26,
+        "file": "avatar_props__adult_female_props_s017.png"
+      },
+      {
+        "index": 18,
+        "w": 12,
+        "h": 15,
+        "ox": -4.5,
+        "oy": -5.0,
+        "colors": 53,
+        "file": "avatar_props__adult_female_props_s018.png"
+      },
+      {
+        "index": 19,
+        "w": 21,
+        "h": 8,
+        "ox": -10.19,
+        "oy": -3.75,
+        "colors": 29,
+        "file": "avatar_props__adult_female_props_s019.png"
+      },
+      {
+        "index": 20,
+        "w": 8,
+        "h": 15,
+        "ox": -3.88,
+        "oy": -7.31,
+        "colors": 37,
+        "file": "avatar_props__adult_female_props_s020.png"
+      },
+      {
+        "index": 21,
+        "w": 69,
+        "h": 72,
+        "ox": -32.25,
+        "oy": -50.75,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s021.png"
+      },
+      {
+        "index": 22,
+        "w": 69,
+        "h": 72,
+        "ox": -32.94,
+        "oy": -50.75,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s022.png"
+      },
+      {
+        "index": 23,
+        "w": 69,
+        "h": 72,
+        "ref": true
+      },
+      {
+        "index": 24,
+        "w": 50,
+        "h": 34,
+        "ox": -26.94,
+        "oy": -18.0,
+        "colors": 65,
+        "file": "avatar_props__adult_female_props_s024.png"
+      },
+      {
+        "index": 25,
+        "w": 17,
+        "h": 21,
+        "ox": -7.44,
+        "oy": -12.12,
+        "colors": 48,
+        "file": "avatar_props__adult_female_props_s025.png"
+      },
+      {
+        "index": 26,
+        "w": 49,
+        "h": 68,
+        "ox": -18.88,
+        "oy": -15.5,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s026.png"
+      },
+      {
+        "index": 27,
+        "w": 49,
+        "h": 68,
+        "ox": -23.69,
+        "oy": -16.5,
+        "colors": 112,
+        "file": "avatar_props__adult_female_props_s027.png"
+      },
+      {
+        "index": 28,
+        "w": 49,
+        "h": 68,
+        "ref": true
+      },
+      {
+        "index": 29,
+        "w": 18,
+        "h": 26,
+        "ox": -4.06,
+        "oy": -19.94,
+        "colors": 49,
+        "file": "avatar_props__adult_female_props_s029.png"
+      },
+      {
+        "index": 30,
+        "w": 25,
+        "h": 19,
+        "ox": -10.88,
+        "oy": -16.94,
+        "colors": 54,
+        "file": "avatar_props__adult_female_props_s030.png"
+      },
+      {
+        "index": 31,
+        "w": 25,
+        "h": 19,
+        "ref": true
+      },
+      {
+        "index": 32,
+        "w": 8,
+        "h": 18,
+        "ox": -3.19,
+        "oy": -7.5,
+        "colors": 43,
+        "file": "avatar_props__adult_female_props_s032.png"
+      },
+      {
+        "index": 33,
+        "w": 62,
+        "h": 76,
+        "ox": -32.62,
+        "oy": -59.06,
+        "colors": 24,
+        "file": "avatar_props__adult_female_props_s033.png"
+      },
+      {
+        "index": 34,
+        "w": 58,
+        "h": 49,
+        "ox": -34.31,
+        "oy": -19.5,
+        "colors": 64,
+        "file": "avatar_props__adult_female_props_s034.png"
+      },
+      {
+        "index": 35,
+        "w": 59,
+        "h": 50,
+        "ox": -30.0,
+        "oy": -25.0,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s035.png"
+      },
+      {
+        "index": 36,
+        "w": 32,
+        "h": 35,
+        "ox": -15.31,
+        "oy": -13.44,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s036.png"
+      },
+      {
+        "index": 37,
+        "w": 33,
+        "h": 31,
+        "ox": -17.0,
+        "oy": -11.62,
+        "colors": 60,
+        "file": "avatar_props__adult_female_props_s037.png"
+      },
+      {
+        "index": 38,
+        "w": 33,
+        "h": 31,
+        "ox": -17.0,
+        "oy": -11.62,
+        "colors": 60,
+        "file": "avatar_props__adult_female_props_s038.png"
+      },
+      {
+        "index": 39,
+        "w": 14,
+        "h": 16,
+        "ox": -9.75,
+        "oy": 1.06,
+        "colors": 37,
+        "file": "avatar_props__adult_female_props_s039.png"
+      },
+      {
+        "index": 40,
+        "w": 34,
+        "h": 26,
+        "ox": -17.19,
+        "oy": -11.38,
+        "colors": 19,
+        "file": "avatar_props__adult_female_props_s040.png"
+      },
+      {
+        "index": 41,
+        "w": 34,
+        "h": 26,
+        "ox": -17.19,
+        "oy": -11.38,
+        "colors": 17,
+        "file": "avatar_props__adult_female_props_s041.png"
+      },
+      {
+        "index": 42,
+        "w": 34,
+        "h": 26,
+        "ref": true
+      },
+      {
+        "index": 43,
+        "w": 71,
+        "h": 50,
+        "ox": -35.88,
+        "oy": -43.75,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s043.png"
+      },
+      {
+        "index": 44,
+        "w": 72,
+        "h": 63,
+        "ox": -38.69,
+        "oy": -40.56,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s044.png"
+      },
+      {
+        "index": 45,
+        "w": 72,
+        "h": 63,
+        "ref": true
+      },
+      {
+        "index": 46,
+        "w": 24,
+        "h": 43,
+        "ox": -11.56,
+        "oy": -16.81,
+        "colors": 119,
+        "file": "avatar_props__adult_female_props_s046.png"
+      },
+      {
+        "index": 47,
+        "w": 23,
+        "h": 44,
+        "ox": -11.5,
+        "oy": -17.12,
+        "colors": 51,
+        "file": "avatar_props__adult_female_props_s047.png"
+      },
+      {
+        "index": 48,
+        "w": 23,
+        "h": 44,
+        "ref": true
+      },
+      {
+        "index": 49,
+        "w": 29,
+        "h": 23,
+        "ox": -14.5,
+        "oy": -11.62,
+        "colors": 43,
+        "file": "avatar_props__adult_female_props_s049.png"
+      },
+      {
+        "index": 50,
+        "w": 40,
+        "h": 46,
+        "ox": -14.19,
+        "oy": -15.06,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s050.png"
+      },
+      {
+        "index": 51,
+        "w": 38,
+        "h": 50,
+        "ox": -18.62,
+        "oy": -21.88,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s051.png"
+      },
+      {
+        "index": 52,
+        "w": 38,
+        "h": 50,
+        "ref": true
+      },
+      {
+        "index": 53,
+        "w": 28,
+        "h": 38,
+        "ox": -15.56,
+        "oy": -13.44,
+        "colors": 120,
+        "file": "avatar_props__adult_female_props_s053.png"
+      },
+      {
+        "index": 54,
+        "w": 8,
+        "h": 15,
+        "ref": true
+      },
+      {
+        "index": 55,
+        "w": 36,
+        "h": 10,
+        "ox": -16.88,
+        "oy": -3.75,
+        "colors": 4,
+        "file": "avatar_props__adult_female_props_s055.png"
+      },
+      {
+        "index": 56,
+        "w": 9,
+        "h": 9,
+        "ox": -4.12,
+        "oy": -4.0,
+        "colors": 25,
+        "file": "avatar_props__adult_female_props_s056.png"
+      },
+      {
+        "index": 57,
+        "w": 48,
+        "h": 48,
+        "ox": -23.94,
+        "oy": -22.5,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s057.png"
+      },
+      {
+        "index": 58,
+        "w": 48,
+        "h": 48,
+        "ox": -24.44,
+        "oy": -23.62,
+        "colors": 125,
+        "file": "avatar_props__adult_female_props_s058.png"
+      },
+      {
+        "index": 59,
+        "w": 48,
+        "h": 48,
+        "ref": true
+      },
+      {
+        "index": 60,
+        "w": 33,
+        "h": 37,
+        "ox": -16.5,
+        "oy": -18.38,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s060.png"
+      },
+      {
+        "index": 61,
+        "w": 30,
+        "h": 39,
+        "ox": -15.06,
+        "oy": -19.75,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s061.png"
+      },
+      {
+        "index": 62,
+        "w": 30,
+        "h": 39,
+        "ref": true
+      },
+      {
+        "index": 63,
+        "w": 21,
+        "h": 21,
+        "ox": -5.94,
+        "oy": -14.56,
+        "colors": 76,
+        "file": "avatar_props__adult_female_props_s063.png"
+      },
+      {
+        "index": 64,
+        "w": 9,
+        "h": 9,
+        "ox": -4.12,
+        "oy": -4.0,
+        "colors": 23,
+        "file": "avatar_props__adult_female_props_s064.png"
+      },
+      {
+        "index": 65,
+        "w": 8,
+        "h": 9,
+        "ox": -3.12,
+        "oy": -4.0,
+        "colors": 30,
+        "file": "avatar_props__adult_female_props_s065.png"
+      },
+      {
+        "index": 66,
+        "w": 13,
+        "h": 16,
+        "ox": -7.06,
+        "oy": -7.94,
+        "colors": 33,
+        "file": "avatar_props__adult_female_props_s066.png"
+      },
+      {
+        "index": 67,
+        "w": 10,
+        "h": 12,
+        "ox": -4.81,
+        "oy": -6.06,
+        "colors": 9,
+        "file": "avatar_props__adult_female_props_s067.png"
+      },
+      {
+        "index": 68,
+        "w": 10,
+        "h": 18,
+        "ox": -3.12,
+        "oy": -9.31,
+        "colors": 17,
+        "file": "avatar_props__adult_female_props_s068.png"
+      },
+      {
+        "index": 69,
+        "w": 10,
+        "h": 20,
+        "ox": -5.0,
+        "oy": -8.94,
+        "colors": 45,
+        "file": "avatar_props__adult_female_props_s069.png"
+      },
+      {
+        "index": 70,
+        "w": 8,
+        "h": 15,
+        "ref": true
+      },
+      {
+        "index": 71,
+        "w": 8,
+        "h": 15,
+        "ref": true
+      },
+      {
+        "index": 72,
+        "w": 87,
+        "h": 67,
+        "ox": -40.25,
+        "oy": -54.75,
+        "colors": 89,
+        "file": "avatar_props__adult_female_props_s072.png"
+      },
+      {
+        "index": 73,
+        "w": 63,
+        "h": 45,
+        "ox": -32.25,
+        "oy": -22.81,
+        "colors": 108,
+        "file": "avatar_props__adult_female_props_s073.png"
+      },
+      {
+        "index": 74,
+        "w": 87,
+        "h": 67,
+        "ox": -40.25,
+        "oy": -54.75,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s074.png"
+      },
+      {
+        "index": 75,
+        "w": 63,
+        "h": 45,
+        "ox": -32.25,
+        "oy": -22.81,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s075.png"
+      },
+      {
+        "index": 76,
+        "w": 87,
+        "h": 67,
+        "ox": -40.25,
+        "oy": -54.75,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s076.png"
+      },
+      {
+        "index": 77,
+        "w": 63,
+        "h": 45,
+        "ox": -32.25,
+        "oy": -22.81,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s077.png"
+      },
+      {
+        "index": 78,
+        "w": 87,
+        "h": 67,
+        "ox": -40.25,
+        "oy": -54.75,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s078.png"
+      },
+      {
+        "index": 79,
+        "w": 63,
+        "h": 45,
+        "ox": -32.25,
+        "oy": -22.81,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s079.png"
+      },
+      {
+        "index": 81,
+        "w": 3,
+        "h": 3,
+        "ref": true
+      },
+      {
+        "index": 82,
+        "w": 21,
+        "h": 23,
+        "ox": -11.44,
+        "oy": -6.56,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s082.png"
+      },
+      {
+        "index": 83,
+        "w": 40,
+        "h": 35,
+        "ox": -17.0,
+        "oy": -16.12,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s083.png"
+      },
+      {
+        "index": 84,
+        "w": 37,
+        "h": 35,
+        "ox": -17.12,
+        "oy": -15.81,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s084.png"
+      },
+      {
+        "index": 85,
+        "w": 37,
+        "h": 35,
+        "ref": true
+      },
+      {
+        "index": 86,
+        "w": 75,
+        "h": 81,
+        "ox": -36.12,
+        "oy": -49.44,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s086.png"
+      },
+      {
+        "index": 87,
+        "w": 61,
+        "h": 39,
+        "ox": -30.88,
+        "oy": -17.94,
+        "colors": 111,
+        "file": "avatar_props__adult_female_props_s087.png"
+      },
+      {
+        "index": 88,
+        "w": 74,
+        "h": 81,
+        "ox": -36.25,
+        "oy": -49.5,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s088.png"
+      },
+      {
+        "index": 89,
+        "w": 61,
+        "h": 39,
+        "ox": -30.88,
+        "oy": -17.94,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s089.png"
+      },
+      {
+        "index": 90,
+        "w": 74,
+        "h": 81,
+        "ox": -36.25,
+        "oy": -49.5,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s090.png"
+      },
+      {
+        "index": 91,
+        "w": 62,
+        "h": 39,
+        "ox": -30.88,
+        "oy": -17.94,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s091.png"
+      },
+      {
+        "index": 92,
+        "w": 74,
+        "h": 81,
+        "ox": -36.25,
+        "oy": -49.5,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s092.png"
+      },
+      {
+        "index": 93,
+        "w": 62,
+        "h": 39,
+        "ox": -30.88,
+        "oy": -17.94,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s093.png"
+      },
+      {
+        "index": 94,
+        "w": 66,
+        "h": 85,
+        "ox": -30.5,
+        "oy": -45.31,
+        "colors": 99,
+        "file": "avatar_props__adult_female_props_s094.png"
+      },
+      {
+        "index": 95,
+        "w": 56,
+        "h": 25,
+        "ox": -25.44,
+        "oy": -12.44,
+        "colors": 100,
+        "file": "avatar_props__adult_female_props_s095.png"
+      },
+      {
+        "index": 96,
+        "w": 66,
+        "h": 85,
+        "ox": -30.5,
+        "oy": -45.31,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s096.png"
+      },
+      {
+        "index": 97,
+        "w": 56,
+        "h": 25,
+        "ox": -25.44,
+        "oy": -12.44,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s097.png"
+      },
+      {
+        "index": 98,
+        "w": 66,
+        "h": 85,
+        "ox": -30.5,
+        "oy": -45.31,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s098.png"
+      },
+      {
+        "index": 99,
+        "w": 56,
+        "h": 25,
+        "ox": -25.44,
+        "oy": -12.44,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s099.png"
+      },
+      {
+        "index": 100,
+        "w": 66,
+        "h": 85,
+        "ox": -30.5,
+        "oy": -45.31,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s100.png"
+      },
+      {
+        "index": 101,
+        "w": 56,
+        "h": 25,
+        "ox": -25.44,
+        "oy": -12.44,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s101.png"
+      },
+      {
+        "index": 102,
+        "w": 50,
+        "h": 49,
+        "ox": -27.12,
+        "oy": -26.5,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s102.png"
+      },
+      {
+        "index": 103,
+        "w": 51,
+        "h": 49,
+        "ox": -24.25,
+        "oy": -26.75,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s103.png"
+      },
+      {
+        "index": 104,
+        "w": 51,
+        "h": 49,
+        "ref": true
+      },
+      {
+        "index": 105,
+        "w": 21,
+        "h": 22,
+        "ox": -8.69,
+        "oy": -9.88,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s105.png"
+      },
+      {
+        "index": 106,
+        "w": 42,
+        "h": 43,
+        "ox": -18.62,
+        "oy": -22.31,
+        "colors": 86,
+        "file": "avatar_props__adult_female_props_s106.png"
+      },
+      {
+        "index": 107,
+        "w": 45,
+        "h": 43,
+        "ox": -22.19,
+        "oy": -22.56,
+        "colors": 81,
+        "file": "avatar_props__adult_female_props_s107.png"
+      },
+      {
+        "index": 108,
+        "w": 45,
+        "h": 43,
+        "ref": true
+      },
+      {
+        "index": 109,
+        "w": 17,
+        "h": 19,
+        "ox": -8.31,
+        "oy": -9.25,
+        "colors": 22,
+        "file": "avatar_props__adult_female_props_s109.png"
+      },
+      {
+        "index": 110,
+        "w": 39,
+        "h": 55,
+        "ox": -16.88,
+        "oy": -16.94,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s110.png"
+      },
+      {
+        "index": 111,
+        "w": 46,
+        "h": 63,
+        "ox": -21.75,
+        "oy": -16.56,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s111.png"
+      },
+      {
+        "index": 112,
+        "w": 46,
+        "h": 63,
+        "ref": true
+      },
+      {
+        "index": 113,
+        "w": 21,
+        "h": 22,
+        "ox": -8.38,
+        "oy": -14.56,
+        "colors": 70,
+        "file": "avatar_props__adult_female_props_s113.png"
+      },
+      {
+        "index": 114,
+        "w": 48,
+        "h": 45,
+        "ox": -23.25,
+        "oy": -22.25,
+        "colors": 65,
+        "file": "avatar_props__adult_female_props_s114.png"
+      },
+      {
+        "index": 115,
+        "w": 31,
+        "h": 23,
+        "ox": -14.88,
+        "oy": -9.31,
+        "colors": 4,
+        "file": "avatar_props__adult_female_props_s115.png"
+      },
+      {
+        "index": 116,
+        "w": 28,
+        "h": 21,
+        "ox": -13.75,
+        "oy": -11.0,
+        "colors": 6,
+        "file": "avatar_props__adult_female_props_s116.png"
+      },
+      {
+        "index": 117,
+        "w": 28,
+        "h": 21,
+        "ref": true
+      },
+      {
+        "index": 118,
+        "w": 21,
+        "h": 36,
+        "ox": -10.25,
+        "oy": -17.88,
+        "colors": 20,
+        "file": "avatar_props__adult_female_props_s118.png"
+      },
+      {
+        "index": 119,
+        "w": 67,
+        "h": 43,
+        "ox": -28.88,
+        "oy": -34.06,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s119.png"
+      },
+      {
+        "index": 120,
+        "w": 67,
+        "h": 43,
+        "ox": -28.94,
+        "oy": -34.06,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s120.png"
+      },
+      {
+        "index": 121,
+        "w": 61,
+        "h": 52,
+        "ox": -30.19,
+        "oy": -26.06,
+        "colors": 115,
+        "file": "avatar_props__adult_female_props_s121.png"
+      },
+      {
+        "index": 122,
+        "w": 40,
+        "h": 42,
+        "ox": -19.06,
+        "oy": -19.06,
+        "colors": 59,
+        "file": "avatar_props__adult_female_props_s122.png"
+      },
+      {
+        "index": 123,
+        "w": 33,
+        "h": 38,
+        "ox": -13.12,
+        "oy": -20.62,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s123.png"
+      },
+      {
+        "index": 124,
+        "w": 33,
+        "h": 37,
+        "ox": -15.12,
+        "oy": -20.5,
+        "colors": 122,
+        "file": "avatar_props__adult_female_props_s124.png"
+      },
+      {
+        "index": 125,
+        "w": 24,
+        "h": 35,
+        "ox": -12.62,
+        "oy": -14.75,
+        "colors": 72,
+        "file": "avatar_props__adult_female_props_s125.png"
+      },
+      {
+        "index": 126,
+        "w": 15,
+        "h": 9,
+        "ox": -7.25,
+        "oy": -4.25,
+        "colors": 26,
+        "file": "avatar_props__adult_female_props_s126.png"
+      },
+      {
+        "index": 127,
+        "w": 69,
+        "h": 64,
+        "ox": -30.25,
+        "oy": -52.88,
+        "colors": 81,
+        "file": "avatar_props__adult_female_props_s127.png"
+      },
+      {
+        "index": 128,
+        "w": 52,
+        "h": 35,
+        "ox": -30.5,
+        "oy": -13.31,
+        "colors": 112,
+        "file": "avatar_props__adult_female_props_s128.png"
+      },
+      {
+        "index": 129,
+        "w": 69,
+        "h": 64,
+        "ox": -30.25,
+        "oy": -52.88,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s129.png"
+      },
+      {
+        "index": 130,
+        "w": 52,
+        "h": 35,
+        "ox": -30.5,
+        "oy": -13.31,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s130.png"
+      },
+      {
+        "index": 131,
+        "w": 69,
+        "h": 64,
+        "ox": -30.25,
+        "oy": -53.5,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s131.png"
+      },
+      {
+        "index": 132,
+        "w": 52,
+        "h": 35,
+        "ox": -30.5,
+        "oy": -13.31,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s132.png"
+      },
+      {
+        "index": 133,
+        "w": 8,
+        "h": 15,
+        "ox": -2.19,
+        "oy": -5.31,
+        "colors": 28,
+        "file": "avatar_props__adult_female_props_s133.png"
+      },
+      {
+        "index": 134,
+        "w": 69,
+        "h": 64,
+        "ox": -30.25,
+        "oy": -52.88,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s134.png"
+      },
+      {
+        "index": 135,
+        "w": 52,
+        "h": 35,
+        "ox": -30.5,
+        "oy": -13.31,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s135.png"
+      },
+      {
+        "index": 136,
+        "w": 11,
+        "h": 11,
+        "ox": -4.12,
+        "oy": -3.0,
+        "colors": 19,
+        "file": "avatar_props__adult_female_props_s136.png"
+      },
+      {
+        "index": 137,
+        "w": 35,
+        "h": 34,
+        "ox": -17.19,
+        "oy": -16.56,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s137.png"
+      },
+      {
+        "index": 138,
+        "w": 36,
+        "h": 35,
+        "ox": -18.12,
+        "oy": -15.0,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s138.png"
+      },
+      {
+        "index": 139,
+        "w": 36,
+        "h": 35,
+        "ref": true
+      },
+      {
+        "index": 140,
+        "w": 62,
+        "h": 21,
+        "ox": -22.81,
+        "oy": -14.88,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s140.png"
+      },
+      {
+        "index": 141,
+        "w": 57,
+        "h": 29,
+        "ox": -31.56,
+        "oy": -5.19,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s141.png"
+      },
+      {
+        "index": 142,
+        "w": 57,
+        "h": 29,
+        "ref": true
+      },
+      {
+        "index": 143,
+        "w": 21,
+        "h": 24,
+        "ox": -11.19,
+        "oy": -9.5,
+        "colors": 125,
+        "file": "avatar_props__adult_female_props_s143.png"
+      },
+      {
+        "index": 144,
+        "w": 47,
+        "h": 47,
+        "ox": -22.88,
+        "oy": -21.06,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s144.png"
+      },
+      {
+        "index": 145,
+        "w": 46,
+        "h": 47,
+        "ox": -22.56,
+        "oy": -24.81,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s145.png"
+      },
+      {
+        "index": 146,
+        "w": 46,
+        "h": 47,
+        "ref": true
+      },
+      {
+        "index": 147,
+        "w": 31,
+        "h": 51,
+        "ox": -12.06,
+        "oy": -16.94,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s147.png"
+      },
+      {
+        "index": 148,
+        "w": 36,
+        "h": 31,
+        "ox": -17.75,
+        "oy": -13.38,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s148.png"
+      },
+      {
+        "index": 149,
+        "w": 36,
+        "h": 31,
+        "ref": true
+      },
+      {
+        "index": 150,
+        "w": 22,
+        "h": 23,
+        "ox": -9.75,
+        "oy": -14.31,
+        "colors": 76,
+        "file": "avatar_props__adult_female_props_s150.png"
+      },
+      {
+        "index": 151,
+        "w": 66,
+        "h": 85,
+        "ox": -33.06,
+        "oy": -42.5,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s151.png"
+      },
+      {
+        "index": 152,
+        "w": 61,
+        "h": 39,
+        "ref": true
+      },
+      {
+        "index": 153,
+        "w": 8,
+        "h": 15,
+        "ref": true
+      },
+      {
+        "index": 154,
+        "w": 9,
+        "h": 10,
+        "ox": -1.25,
+        "oy": -1.5,
+        "colors": 14,
+        "file": "avatar_props__adult_female_props_s154.png"
+      },
+      {
+        "index": 155,
+        "w": 9,
+        "h": 9,
+        "ox": -4.12,
+        "oy": -4.0,
+        "colors": 26,
+        "file": "avatar_props__adult_female_props_s155.png"
+      },
+      {
+        "index": 156,
+        "w": 27,
+        "h": 23,
+        "ox": -13.5,
+        "oy": 0.44,
+        "colors": 3,
+        "file": "avatar_props__adult_female_props_s156.png"
+      },
+      {
+        "index": 157,
+        "w": 63,
+        "h": 62,
+        "ox": -30.25,
+        "oy": -50.25,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s157.png"
+      },
+      {
+        "index": 158,
+        "w": 59,
+        "h": 61,
+        "ox": -31.81,
+        "oy": -45.0,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s158.png"
+      },
+      {
+        "index": 159,
+        "w": 59,
+        "h": 61,
+        "ref": true
+      },
+      {
+        "index": 160,
+        "w": 21,
+        "h": 30,
+        "ox": -10.25,
+        "oy": -11.19,
+        "colors": 33,
+        "file": "avatar_props__adult_female_props_s160.png"
+      },
+      {
+        "index": 161,
+        "w": 36,
+        "h": 25,
+        "ox": -17.75,
+        "oy": -20.75,
+        "colors": 126,
+        "file": "avatar_props__adult_female_props_s161.png"
+      },
+      {
+        "index": 162,
+        "w": 34,
+        "h": 28,
+        "ox": -14.0,
+        "oy": -14.31,
+        "colors": 120,
+        "file": "avatar_props__adult_female_props_s162.png"
+      },
+      {
+        "index": 163,
+        "w": 38,
+        "h": 41,
+        "ox": -18.38,
+        "oy": -14.44,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s163.png"
+      },
+      {
+        "index": 164,
+        "w": 38,
+        "h": 41,
+        "ox": -18.62,
+        "oy": -14.56,
+        "colors": 37,
+        "file": "avatar_props__adult_female_props_s164.png"
+      },
+      {
+        "index": 165,
+        "w": 26,
+        "h": 49,
+        "ox": -16.25,
+        "oy": -15.81,
+        "colors": 121,
+        "file": "avatar_props__adult_female_props_s165.png"
+      },
+      {
+        "index": 166,
+        "w": 90,
+        "h": 78,
+        "ox": -40.5,
+        "oy": -51.31,
+        "colors": 67,
+        "file": "avatar_props__adult_female_props_s166.png"
+      },
+      {
+        "index": 167,
+        "w": 69,
+        "h": 37,
+        "ox": -37.69,
+        "oy": -16.81,
+        "colors": 101,
+        "file": "avatar_props__adult_female_props_s167.png"
+      },
+      {
+        "index": 168,
+        "w": 90,
+        "h": 78,
+        "ox": -40.5,
+        "oy": -51.31,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s168.png"
+      },
+      {
+        "index": 169,
+        "w": 65,
+        "h": 35,
+        "ox": -37.69,
+        "oy": -16.81,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s169.png"
+      },
+      {
+        "index": 170,
+        "w": 90,
+        "h": 78,
+        "ox": -40.5,
+        "oy": -51.31,
+        "colors": 95,
+        "file": "avatar_props__adult_female_props_s170.png"
+      },
+      {
+        "index": 171,
+        "w": 69,
+        "h": 37,
+        "ox": -37.69,
+        "oy": -17.06,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s171.png"
+      },
+      {
+        "index": 172,
+        "w": 90,
+        "h": 78,
+        "ox": -40.5,
+        "oy": -51.31,
+        "colors": 100,
+        "file": "avatar_props__adult_female_props_s172.png"
+      },
+      {
+        "index": 173,
+        "w": 68,
+        "h": 36,
+        "ox": -37.69,
+        "oy": -16.81,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s173.png"
+      },
+      {
+        "index": 174,
+        "w": 32,
+        "h": 26,
+        "ox": -16.38,
+        "oy": -8.38,
+        "colors": 36,
+        "file": "avatar_props__adult_female_props_s174.png"
+      },
+      {
+        "index": 175,
+        "w": 85,
+        "h": 65,
+        "ox": -41.38,
+        "oy": -42.19,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s175.png"
+      },
+      {
+        "index": 176,
+        "w": 85,
+        "h": 67,
+        "ox": -44.75,
+        "oy": -37.62,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s176.png"
+      },
+      {
+        "index": 177,
+        "w": 85,
+        "h": 67,
+        "ref": true
+      },
+      {
+        "index": 178,
+        "w": 22,
+        "h": 33,
+        "ox": -8.31,
+        "oy": -18.19,
+        "colors": 17,
+        "file": "avatar_props__adult_female_props_s178.png"
+      },
+      {
+        "index": 179,
+        "w": 17,
+        "h": 21,
+        "ox": -6.44,
+        "oy": -8.56,
+        "colors": 44,
+        "file": "avatar_props__adult_female_props_s179.png"
+      },
+      {
+        "index": 180,
+        "w": 28,
+        "h": 29,
+        "ox": -11.06,
+        "oy": -18.31,
+        "colors": 61,
+        "file": "avatar_props__adult_female_props_s180.png"
+      },
+      {
+        "index": 181,
+        "w": 59,
+        "h": 55,
+        "ox": -41.44,
+        "oy": -19.31,
+        "colors": 119,
+        "file": "avatar_props__adult_female_props_s181.png"
+      },
+      {
+        "index": 182,
+        "w": 56,
+        "h": 56,
+        "ox": -37.56,
+        "oy": -19.81,
+        "colors": 116,
+        "file": "avatar_props__adult_female_props_s182.png"
+      },
+      {
+        "index": 183,
+        "w": 59,
+        "h": 57,
+        "ox": -39.62,
+        "oy": -19.81,
+        "colors": 109,
+        "file": "avatar_props__adult_female_props_s183.png"
+      },
+      {
+        "index": 184,
+        "w": 22,
+        "h": 26,
+        "ox": -10.44,
+        "oy": -14.12,
+        "colors": 45,
+        "file": "avatar_props__adult_female_props_s184.png"
+      },
+      {
+        "index": 185,
+        "w": 8,
+        "h": 15,
+        "ref": true
+      },
+      {
+        "index": 186,
+        "w": 15,
+        "h": 16,
+        "ox": -9.0,
+        "oy": -8.06,
+        "colors": 3,
+        "file": "avatar_props__adult_female_props_s186.png"
+      },
+      {
+        "index": 187,
+        "w": 39,
+        "h": 37,
+        "ox": -19.38,
+        "oy": -21.19,
+        "colors": 81,
+        "file": "avatar_props__adult_female_props_s187.png"
+      },
+      {
+        "index": 188,
+        "w": 38,
+        "h": 22,
+        "ox": -18.75,
+        "oy": -10.88,
+        "colors": 52,
+        "file": "avatar_props__adult_female_props_s188.png"
+      },
+      {
+        "index": 189,
+        "w": 38,
+        "h": 22,
+        "ref": true
+      },
+      {
+        "index": 190,
+        "w": 61,
+        "h": 61,
+        "ox": -30.19,
+        "oy": -30.44,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s190.png"
+      },
+      {
+        "index": 191,
+        "w": 69,
+        "h": 55,
+        "ox": -41.44,
+        "oy": -28.19,
+        "colors": 127,
+        "file": "avatar_props__adult_female_props_s191.png"
+      },
+      {
+        "index": 192,
+        "w": 69,
+        "h": 55,
+        "ref": true
+      },
+      {
+        "index": 193,
+        "w": 3,
+        "h": 3,
+        "ref": true
+      }
+    ]
+  },
+  "avatar_types__adult_female.bin": {
+    "total": 168,
+    "decoded": 168,
+    "sprites": [
+      {
+        "index": 0,
+        "w": 73,
+        "h": 131,
+        "ox": -35.31,
+        "oy": -64.88,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s000.png"
+      },
+      {
+        "index": 1,
+        "w": 111,
+        "h": 122,
+        "ox": -56.31,
+        "oy": -92.5,
+        "colors": 0,
+        "file": "avatar_types__adult_female_s001.png"
+      },
+      {
+        "index": 2,
+        "w": 31,
+        "h": 57,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 110,
+        "file": "avatar_types__adult_female_s002.png"
+      },
+      {
+        "index": 3,
+        "w": 20,
+        "h": 27,
+        "ox": -7.5,
+        "oy": -20.44,
+        "colors": 71,
+        "file": "avatar_types__adult_female_s003.png"
+      },
+      {
+        "index": 4,
+        "w": 26,
+        "h": 42,
+        "ox": -13.81,
+        "oy": -20.44,
+        "colors": 108,
+        "file": "avatar_types__adult_female_s004.png"
+      },
+      {
+        "index": 5,
+        "w": 20,
+        "h": 29,
+        "ox": -7.81,
+        "oy": -20.44,
+        "colors": 75,
+        "file": "avatar_types__adult_female_s005.png"
+      },
+      {
+        "index": 6,
+        "w": 24,
+        "h": 42,
+        "ox": -11.44,
+        "oy": -20.38,
+        "colors": 113,
+        "file": "avatar_types__adult_female_s006.png"
+      },
+      {
+        "index": 7,
+        "w": 22,
+        "h": 22,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s007.png"
+      },
+      {
+        "index": 8,
+        "w": 32,
+        "h": 56,
+        "ox": 12.5,
+        "oy": 3.0,
+        "colors": 108,
+        "file": "avatar_types__adult_female_s008.png"
+      },
+      {
+        "index": 9,
+        "w": 27,
+        "h": 37,
+        "ox": -12.06,
+        "oy": -16.19,
+        "colors": 106,
+        "file": "avatar_types__adult_female_s009.png"
+      },
+      {
+        "index": 10,
+        "w": 23,
+        "h": 29,
+        "ox": -12.06,
+        "oy": -16.19,
+        "colors": 77,
+        "file": "avatar_types__adult_female_s010.png"
+      },
+      {
+        "index": 11,
+        "w": 71,
+        "h": 59,
+        "ox": -0.95,
+        "oy": -0.95,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s011.png"
+      },
+      {
+        "index": 12,
+        "w": 43,
+        "h": 44,
+        "ox": -20.94,
+        "oy": -21.38,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s012.png"
+      },
+      {
+        "index": 13,
+        "w": 21,
+        "h": 40,
+        "ox": -10.19,
+        "oy": -19.69,
+        "colors": 2,
+        "file": "avatar_types__adult_female_s013.png"
+      },
+      {
+        "index": 14,
+        "w": 72,
+        "h": 56,
+        "ox": -42.25,
+        "oy": -38.81,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s014.png"
+      },
+      {
+        "index": 15,
+        "w": 18,
+        "h": 27,
+        "ox": -8.62,
+        "oy": -13.06,
+        "colors": 87,
+        "file": "avatar_types__adult_female_s015.png"
+      },
+      {
+        "index": 16,
+        "w": 37,
+        "h": 16,
+        "ox": -17.69,
+        "oy": -7.38,
+        "colors": 34,
+        "file": "avatar_types__adult_female_s016.png"
+      },
+      {
+        "index": 17,
+        "w": 31,
+        "h": 8,
+        "ox": -15.31,
+        "oy": -3.5,
+        "colors": 1,
+        "file": "avatar_types__adult_female_s017.png"
+      },
+      {
+        "index": 18,
+        "w": 54,
+        "h": 62,
+        "ox": -1.0,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s018.png"
+      },
+      {
+        "index": 19,
+        "w": 37,
+        "h": 31,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 5,
+        "file": "avatar_types__adult_female_s019.png"
+      },
+      {
+        "index": 20,
+        "w": 59,
+        "h": 74,
+        "ox": -28.88,
+        "oy": -33.06,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s020.png"
+      },
+      {
+        "index": 21,
+        "w": 93,
+        "h": 105,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s021.png"
+      },
+      {
+        "index": 22,
+        "w": 93,
+        "h": 105,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s022.png"
+      },
+      {
+        "index": 23,
+        "w": 99,
+        "h": 178,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s023.png"
+      },
+      {
+        "index": 24,
+        "w": 45,
+        "h": 92,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s024.png"
+      },
+      {
+        "index": 25,
+        "w": 37,
+        "h": 40,
+        "ox": -0.88,
+        "oy": -0.25,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s025.png"
+      },
+      {
+        "index": 26,
+        "w": 47,
+        "h": 47,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s026.png"
+      },
+      {
+        "index": 27,
+        "w": 105,
+        "h": 102,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s027.png"
+      },
+      {
+        "index": 28,
+        "w": 25,
+        "h": 51,
+        "ox": 0.75,
+        "oy": 3.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s028.png"
+      },
+      {
+        "index": 29,
+        "w": 71,
+        "h": 62,
+        "ox": 0.0,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s029.png"
+      },
+      {
+        "index": 30,
+        "w": 9,
+        "h": 9,
+        "ox": -0.5,
+        "oy": -0.75,
+        "colors": 32,
+        "file": "avatar_types__adult_female_s030.png"
+      },
+      {
+        "index": 31,
+        "w": 24,
+        "h": 42,
+        "ox": -11.56,
+        "oy": -20.44,
+        "colors": 73,
+        "file": "avatar_types__adult_female_s031.png"
+      },
+      {
+        "index": 32,
+        "w": 36,
+        "h": 40,
+        "ox": -17.88,
+        "oy": -18.88,
+        "colors": 112,
+        "file": "avatar_types__adult_female_s032.png"
+      },
+      {
+        "index": 33,
+        "w": 27,
+        "h": 40,
+        "ox": -13.12,
+        "oy": -19.44,
+        "colors": 103,
+        "file": "avatar_types__adult_female_s033.png"
+      },
+      {
+        "index": 34,
+        "w": 13,
+        "h": 10,
+        "ox": -6.25,
+        "oy": -4.56,
+        "colors": 38,
+        "file": "avatar_types__adult_female_s034.png"
+      },
+      {
+        "index": 35,
+        "w": 63,
+        "h": 57,
+        "ox": 1.75,
+        "oy": 1.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s035.png"
+      },
+      {
+        "index": 36,
+        "w": 60,
+        "h": 61,
+        "ox": -0.75,
+        "oy": -0.25,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s036.png"
+      },
+      {
+        "index": 37,
+        "w": 24,
+        "h": 32,
+        "ox": -11.44,
+        "oy": -15.25,
+        "colors": 40,
+        "file": "avatar_types__adult_female_s037.png"
+      },
+      {
+        "index": 38,
+        "w": 37,
+        "h": 16,
+        "ox": -14.62,
+        "oy": -11.56,
+        "colors": 36,
+        "file": "avatar_types__adult_female_s038.png"
+      },
+      {
+        "index": 39,
+        "w": 93,
+        "h": 105,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s039.png"
+      },
+      {
+        "index": 40,
+        "w": 93,
+        "h": 105,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s040.png"
+      },
+      {
+        "index": 41,
+        "w": 48,
+        "h": 39,
+        "ox": -23.12,
+        "oy": -18.81,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s041.png"
+      },
+      {
+        "index": 42,
+        "w": 29,
+        "h": 22,
+        "ox": -13.88,
+        "oy": -10.56,
+        "colors": 100,
+        "file": "avatar_types__adult_female_s042.png"
+      },
+      {
+        "index": 43,
+        "w": 26,
+        "h": 17,
+        "ox": -12.38,
+        "oy": -7.69,
+        "colors": 57,
+        "file": "avatar_types__adult_female_s043.png"
+      },
+      {
+        "index": 44,
+        "w": 821,
+        "h": 601,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 0,
+        "file": "avatar_types__adult_female_s044.png"
+      },
+      {
+        "index": 45,
+        "w": 22,
+        "h": 21,
+        "ox": -7.88,
+        "oy": -11.62,
+        "colors": 98,
+        "file": "avatar_types__adult_female_s045.png"
+      },
+      {
+        "index": 46,
+        "w": 17,
+        "h": 17,
+        "ox": -8.05,
+        "oy": -8.36,
+        "colors": 81,
+        "file": "avatar_types__adult_female_s046.png"
+      },
+      {
+        "index": 47,
+        "w": 45,
+        "h": 19,
+        "ox": -22.69,
+        "oy": -9.94,
+        "colors": 30,
+        "file": "avatar_types__adult_female_s047.png"
+      },
+      {
+        "index": 48,
+        "w": 7,
+        "h": 6,
+        "ox": -3.38,
+        "oy": -2.62,
+        "colors": 2,
+        "file": "avatar_types__adult_female_s048.png"
+      },
+      {
+        "index": 49,
+        "w": 21,
+        "h": 14,
+        "ox": -9.94,
+        "oy": -6.19,
+        "colors": 1,
+        "file": "avatar_types__adult_female_s049.png"
+      },
+      {
+        "index": 50,
+        "w": 31,
+        "h": 8,
+        "ox": -15.25,
+        "oy": -3.56,
+        "colors": 1,
+        "file": "avatar_types__adult_female_s050.png"
+      },
+      {
+        "index": 51,
+        "w": 60,
+        "h": 56,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s051.png"
+      },
+      {
+        "index": 52,
+        "w": 8,
+        "h": 8,
+        "ox": 0.0,
+        "oy": -0.5,
+        "colors": 23,
+        "file": "avatar_types__adult_female_s052.png"
+      },
+      {
+        "index": 53,
+        "w": 8,
+        "h": 8,
+        "ox": 0.0,
+        "oy": -0.5,
+        "colors": 23,
+        "file": "avatar_types__adult_female_s053.png"
+      },
+      {
+        "index": 54,
+        "w": 49,
+        "h": 41,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s054.png"
+      },
+      {
+        "index": 55,
+        "w": 20,
+        "h": 29,
+        "ox": -7.81,
+        "oy": -20.44,
+        "colors": 73,
+        "file": "avatar_types__adult_female_s055.png"
+      },
+      {
+        "index": 56,
+        "w": 12,
+        "h": 18,
+        "ox": -16.94,
+        "oy": 8.94,
+        "colors": 32,
+        "file": "avatar_types__adult_female_s056.png"
+      },
+      {
+        "index": 57,
+        "w": 94,
+        "h": 69,
+        "ox": -0.75,
+        "oy": 3.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s057.png"
+      },
+      {
+        "index": 58,
+        "w": 8,
+        "h": 8,
+        "ox": -0.5,
+        "oy": -0.75,
+        "colors": 25,
+        "file": "avatar_types__adult_female_s058.png"
+      },
+      {
+        "index": 59,
+        "w": 102,
+        "h": 95,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 24,
+        "file": "avatar_types__adult_female_s059.png"
+      },
+      {
+        "index": 60,
+        "w": 24,
+        "h": 24,
+        "ox": -11.81,
+        "oy": -11.5,
+        "colors": 94,
+        "file": "avatar_types__adult_female_s060.png"
+      },
+      {
+        "index": 61,
+        "w": 15,
+        "h": 17,
+        "ox": -5.25,
+        "oy": -6.12,
+        "colors": 62,
+        "file": "avatar_types__adult_female_s061.png"
+      },
+      {
+        "index": 62,
+        "w": 15,
+        "h": 14,
+        "ox": -5.12,
+        "oy": -7.06,
+        "colors": 50,
+        "file": "avatar_types__adult_female_s062.png"
+      },
+      {
+        "index": 63,
+        "w": 20,
+        "h": 18,
+        "ox": -13.81,
+        "oy": -6.31,
+        "colors": 89,
+        "file": "avatar_types__adult_female_s063.png"
+      },
+      {
+        "index": 64,
+        "w": 68,
+        "h": 57,
+        "ox": -33.62,
+        "oy": -28.25,
+        "colors": 65,
+        "file": "avatar_types__adult_female_s064.png"
+      },
+      {
+        "index": 65,
+        "w": 9,
+        "h": 9,
+        "ox": -2.94,
+        "oy": -4.81,
+        "colors": 31,
+        "file": "avatar_types__adult_female_s065.png"
+      },
+      {
+        "index": 66,
+        "w": 50,
+        "h": 41,
+        "ox": -1.0,
+        "oy": -0.95,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s066.png"
+      },
+      {
+        "index": 67,
+        "w": 50,
+        "h": 41,
+        "ox": -1.0,
+        "oy": -0.95,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s067.png"
+      },
+      {
+        "index": 68,
+        "w": 50,
+        "h": 41,
+        "ox": -1.0,
+        "oy": -0.95,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s068.png"
+      },
+      {
+        "index": 69,
+        "w": 32,
+        "h": 31,
+        "ox": -15.44,
+        "oy": -14.81,
+        "colors": 88,
+        "file": "avatar_types__adult_female_s069.png"
+      },
+      {
+        "index": 70,
+        "w": 48,
+        "h": 48,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s070.png"
+      },
+      {
+        "index": 71,
+        "w": 48,
+        "h": 39,
+        "ox": -23.38,
+        "oy": -19.19,
+        "colors": 118,
+        "file": "avatar_types__adult_female_s071.png"
+      },
+      {
+        "index": 72,
+        "w": 48,
+        "h": 39,
+        "ox": -23.12,
+        "oy": -18.81,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s072.png"
+      },
+      {
+        "index": 73,
+        "w": 35,
+        "h": 30,
+        "ox": -14.62,
+        "oy": -15.31,
+        "colors": 63,
+        "file": "avatar_types__adult_female_s073.png"
+      },
+      {
+        "index": 74,
+        "w": 35,
+        "h": 29,
+        "ox": -14.62,
+        "oy": -15.31,
+        "colors": 58,
+        "file": "avatar_types__adult_female_s074.png"
+      },
+      {
+        "index": 75,
+        "w": 14,
+        "h": 9,
+        "ox": -12.12,
+        "oy": -5.31,
+        "colors": 0,
+        "file": "avatar_types__adult_female_s075.png"
+      },
+      {
+        "index": 76,
+        "w": 11,
+        "h": 9,
+        "ox": 7.38,
+        "oy": -6.81,
+        "colors": 0,
+        "file": "avatar_types__adult_female_s076.png"
+      },
+      {
+        "index": 77,
+        "w": 37,
+        "h": 16,
+        "ox": -14.62,
+        "oy": -11.56,
+        "colors": 36,
+        "file": "avatar_types__adult_female_s077.png"
+      },
+      {
+        "index": 78,
+        "w": 35,
+        "h": 29,
+        "ox": -14.62,
+        "oy": -15.31,
+        "colors": 59,
+        "file": "avatar_types__adult_female_s078.png"
+      },
+      {
+        "index": 79,
+        "w": 35,
+        "h": 14,
+        "ox": -15.62,
+        "oy": -13.56,
+        "colors": 37,
+        "file": "avatar_types__adult_female_s079.png"
+      },
+      {
+        "index": 80,
+        "w": 38,
+        "h": 18,
+        "ox": -15.62,
+        "oy": -13.56,
+        "colors": 37,
+        "file": "avatar_types__adult_female_s080.png"
+      },
+      {
+        "index": 81,
+        "w": 31,
+        "h": 35,
+        "ox": -15.12,
+        "oy": -18.44,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s081.png"
+      },
+      {
+        "index": 82,
+        "w": 10,
+        "h": 9,
+        "ox": -11.62,
+        "oy": -26.0,
+        "colors": 6,
+        "file": "avatar_types__adult_female_s082.png"
+      },
+      {
+        "index": 83,
+        "w": 160,
+        "h": 161,
+        "ox": 11.44,
+        "oy": 30.12,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s083.png"
+      },
+      {
+        "index": 84,
+        "w": 190,
+        "h": 172,
+        "ox": -1.31,
+        "oy": -0.12,
+        "colors": 0,
+        "file": "avatar_types__adult_female_s084.png"
+      },
+      {
+        "index": 85,
+        "w": 52,
+        "h": 36,
+        "ox": -36.06,
+        "oy": -30.88,
+        "colors": 0,
+        "file": "avatar_types__adult_female_s085.png"
+      },
+      {
+        "index": 86,
+        "w": 5,
+        "h": 7,
+        "ox": 7.44,
+        "oy": 4.62,
+        "colors": 1,
+        "file": "avatar_types__adult_female_s086.png"
+      },
+      {
+        "index": 87,
+        "w": 5,
+        "h": 9,
+        "ox": 7.44,
+        "oy": 4.62,
+        "colors": 1,
+        "file": "avatar_types__adult_female_s087.png"
+      },
+      {
+        "index": 88,
+        "w": 5,
+        "h": 9,
+        "ox": 7.44,
+        "oy": 4.88,
+        "colors": 1,
+        "file": "avatar_types__adult_female_s088.png"
+      },
+      {
+        "index": 89,
+        "w": 4,
+        "h": 9,
+        "ox": 7.44,
+        "oy": 4.88,
+        "colors": 0,
+        "file": "avatar_types__adult_female_s089.png"
+      },
+      {
+        "index": 90,
+        "w": 4,
+        "h": 9,
+        "ox": 7.44,
+        "oy": 4.88,
+        "colors": 0,
+        "file": "avatar_types__adult_female_s090.png"
+      },
+      {
+        "index": 91,
+        "w": 6,
+        "h": 11,
+        "ox": 7.44,
+        "oy": 4.62,
+        "colors": 1,
+        "file": "avatar_types__adult_female_s091.png"
+      },
+      {
+        "index": 92,
+        "w": 9,
+        "h": 11,
+        "ox": 7.44,
+        "oy": 4.88,
+        "colors": 1,
+        "file": "avatar_types__adult_female_s092.png"
+      },
+      {
+        "index": 93,
+        "w": 14,
+        "h": 14,
+        "ox": 7.44,
+        "oy": 2.88,
+        "colors": 2,
+        "file": "avatar_types__adult_female_s093.png"
+      },
+      {
+        "index": 94,
+        "w": 16,
+        "h": 14,
+        "ox": 7.44,
+        "oy": 2.88,
+        "colors": 2,
+        "file": "avatar_types__adult_female_s094.png"
+      },
+      {
+        "index": 95,
+        "w": 18,
+        "h": 14,
+        "ox": 7.44,
+        "oy": 2.88,
+        "colors": 2,
+        "file": "avatar_types__adult_female_s095.png"
+      },
+      {
+        "index": 96,
+        "w": 21,
+        "h": 14,
+        "ox": 7.44,
+        "oy": 2.88,
+        "colors": 2,
+        "file": "avatar_types__adult_female_s096.png"
+      },
+      {
+        "index": 97,
+        "w": 21,
+        "h": 14,
+        "ox": 7.44,
+        "oy": 2.88,
+        "colors": 2,
+        "file": "avatar_types__adult_female_s097.png"
+      },
+      {
+        "index": 98,
+        "w": 52,
+        "h": 36,
+        "ox": -9.44,
+        "oy": -26.19,
+        "colors": 0,
+        "file": "avatar_types__adult_female_s098.png"
+      },
+      {
+        "index": 99,
+        "w": 5,
+        "h": 7,
+        "ox": -5.94,
+        "oy": 9.31,
+        "colors": 1,
+        "file": "avatar_types__adult_female_s099.png"
+      },
+      {
+        "index": 100,
+        "w": 5,
+        "h": 9,
+        "ox": -5.94,
+        "oy": 9.31,
+        "colors": 1,
+        "file": "avatar_types__adult_female_s100.png"
+      },
+      {
+        "index": 101,
+        "w": 5,
+        "h": 9,
+        "ox": -5.69,
+        "oy": 9.31,
+        "colors": 1,
+        "file": "avatar_types__adult_female_s101.png"
+      },
+      {
+        "index": 102,
+        "w": 5,
+        "h": 9,
+        "ox": -5.44,
+        "oy": 9.56,
+        "colors": 1,
+        "file": "avatar_types__adult_female_s102.png"
+      },
+      {
+        "index": 103,
+        "w": 5,
+        "h": 9,
+        "ox": -5.44,
+        "oy": 9.56,
+        "colors": 1,
+        "file": "avatar_types__adult_female_s103.png"
+      },
+      {
+        "index": 104,
+        "w": 7,
+        "h": 12,
+        "ox": -7.44,
+        "oy": 9.06,
+        "colors": 1,
+        "file": "avatar_types__adult_female_s104.png"
+      },
+      {
+        "index": 105,
+        "w": 10,
+        "h": 11,
+        "ox": -10.44,
+        "oy": 9.31,
+        "colors": 1,
+        "file": "avatar_types__adult_female_s105.png"
+      },
+      {
+        "index": 106,
+        "w": 14,
+        "h": 12,
+        "ox": -14.69,
+        "oy": 9.31,
+        "colors": 2,
+        "file": "avatar_types__adult_female_s106.png"
+      },
+      {
+        "index": 107,
+        "w": 16,
+        "h": 12,
+        "ox": -17.19,
+        "oy": 9.31,
+        "colors": 2,
+        "file": "avatar_types__adult_female_s107.png"
+      },
+      {
+        "index": 108,
+        "w": 19,
+        "h": 12,
+        "ox": -19.44,
+        "oy": 9.31,
+        "colors": 1,
+        "file": "avatar_types__adult_female_s108.png"
+      },
+      {
+        "index": 109,
+        "w": 21,
+        "h": 14,
+        "ox": -21.69,
+        "oy": 7.56,
+        "colors": 2,
+        "file": "avatar_types__adult_female_s109.png"
+      },
+      {
+        "index": 110,
+        "w": 21,
+        "h": 14,
+        "ox": -21.69,
+        "oy": 7.31,
+        "colors": 2,
+        "file": "avatar_types__adult_female_s110.png"
+      },
+      {
+        "index": 111,
+        "w": 263,
+        "h": 302,
+        "ox": -128.5,
+        "oy": -124.94,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s111.png"
+      },
+      {
+        "index": 112,
+        "w": 299,
+        "h": 244,
+        "ox": -130.0,
+        "oy": -175.19,
+        "colors": 0,
+        "file": "avatar_types__adult_female_s112.png"
+      },
+      {
+        "index": 113,
+        "w": 36,
+        "h": 38,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s113.png"
+      },
+      {
+        "index": 114,
+        "w": 22,
+        "h": 53,
+        "ox": 2.9,
+        "oy": 0.0,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s114.png"
+      },
+      {
+        "index": 115,
+        "w": 22,
+        "h": 53,
+        "ox": -0.95,
+        "oy": -0.95,
+        "colors": 116,
+        "file": "avatar_types__adult_female_s115.png"
+      },
+      {
+        "index": 116,
+        "w": 22,
+        "h": 44,
+        "ox": -10.38,
+        "oy": -21.69,
+        "colors": 114,
+        "file": "avatar_types__adult_female_s116.png"
+      },
+      {
+        "index": 117,
+        "w": 31,
+        "h": 45,
+        "ox": -14.75,
+        "oy": -22.19,
+        "colors": 109,
+        "file": "avatar_types__adult_female_s117.png"
+      },
+      {
+        "index": 118,
+        "w": 26,
+        "h": 38,
+        "ox": -12.38,
+        "oy": -18.25,
+        "colors": 95,
+        "file": "avatar_types__adult_female_s118.png"
+      },
+      {
+        "index": 119,
+        "w": 27,
+        "h": 34,
+        "ox": -13.12,
+        "oy": -16.19,
+        "colors": 108,
+        "file": "avatar_types__adult_female_s119.png"
+      },
+      {
+        "index": 120,
+        "w": 29,
+        "h": 49,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 88,
+        "file": "avatar_types__adult_female_s120.png"
+      },
+      {
+        "index": 121,
+        "w": 15,
+        "h": 11,
+        "ox": -7.06,
+        "oy": -5.19,
+        "colors": 40,
+        "file": "avatar_types__adult_female_s121.png"
+      },
+      {
+        "index": 122,
+        "w": 11,
+        "h": 8,
+        "ox": -5.12,
+        "oy": -3.5,
+        "colors": 15,
+        "file": "avatar_types__adult_female_s122.png"
+      },
+      {
+        "index": 123,
+        "w": 12,
+        "h": 10,
+        "ox": -5.38,
+        "oy": -4.75,
+        "colors": 37,
+        "file": "avatar_types__adult_female_s123.png"
+      },
+      {
+        "index": 124,
+        "w": 17,
+        "h": 9,
+        "ox": -8.25,
+        "oy": -4.19,
+        "colors": 40,
+        "file": "avatar_types__adult_female_s124.png"
+      },
+      {
+        "index": 125,
+        "w": 8,
+        "h": 9,
+        "ox": -3.44,
+        "oy": -4.12,
+        "colors": 27,
+        "file": "avatar_types__adult_female_s125.png"
+      },
+      {
+        "index": 126,
+        "w": 12,
+        "h": 10,
+        "ox": -5.44,
+        "oy": -4.75,
+        "colors": 39,
+        "file": "avatar_types__adult_female_s126.png"
+      },
+      {
+        "index": 127,
+        "w": 12,
+        "h": 7,
+        "ox": -5.75,
+        "oy": -2.94,
+        "colors": 24,
+        "file": "avatar_types__adult_female_s127.png"
+      },
+      {
+        "index": 128,
+        "w": 468,
+        "h": 149,
+        "ox": -228.62,
+        "oy": 84.0,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s128.png"
+      },
+      {
+        "index": 129,
+        "w": 22,
+        "h": 8,
+        "ox": -0.88,
+        "oy": -0.75,
+        "colors": 34,
+        "file": "avatar_types__adult_female_s129.png"
+      },
+      {
+        "index": 130,
+        "w": 11,
+        "h": 6,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 18,
+        "file": "avatar_types__adult_female_s130.png"
+      },
+      {
+        "index": 131,
+        "w": 20,
+        "h": 7,
+        "ox": -9.69,
+        "oy": -3.25,
+        "colors": 23,
+        "file": "avatar_types__adult_female_s131.png"
+      },
+      {
+        "index": 132,
+        "w": 14,
+        "h": 12,
+        "ox": -6.44,
+        "oy": -5.5,
+        "colors": 36,
+        "file": "avatar_types__adult_female_s132.png"
+      },
+      {
+        "index": 133,
+        "w": 14,
+        "h": 8,
+        "ox": -6.44,
+        "oy": -3.56,
+        "colors": 20,
+        "file": "avatar_types__adult_female_s133.png"
+      },
+      {
+        "index": 134,
+        "w": 12,
+        "h": 10,
+        "ox": -5.44,
+        "oy": -4.75,
+        "colors": 37,
+        "file": "avatar_types__adult_female_s134.png"
+      },
+      {
+        "index": 135,
+        "w": 17,
+        "h": 10,
+        "ox": -8.0,
+        "oy": -4.38,
+        "colors": 51,
+        "file": "avatar_types__adult_female_s135.png"
+      },
+      {
+        "index": 136,
+        "w": 38,
+        "h": 20,
+        "ox": 3.25,
+        "oy": -0.25,
+        "colors": 45,
+        "file": "avatar_types__adult_female_s136.png"
+      },
+      {
+        "index": 137,
+        "w": 8,
+        "h": 8,
+        "ox": -0.5,
+        "oy": -0.75,
+        "colors": 27,
+        "file": "avatar_types__adult_female_s137.png"
+      },
+      {
+        "index": 138,
+        "w": 6,
+        "h": 8,
+        "ox": -2.69,
+        "oy": -3.5,
+        "colors": 10,
+        "file": "avatar_types__adult_female_s138.png"
+      },
+      {
+        "index": 139,
+        "w": 9,
+        "h": 9,
+        "ox": -3.62,
+        "oy": -3.88,
+        "colors": 34,
+        "file": "avatar_types__adult_female_s139.png"
+      },
+      {
+        "index": 140,
+        "w": 20,
+        "h": 7,
+        "ox": -5.56,
+        "oy": 6.25,
+        "colors": 28,
+        "file": "avatar_types__adult_female_s140.png"
+      },
+      {
+        "index": 141,
+        "w": 30,
+        "h": 35,
+        "ox": -15.25,
+        "oy": -18.44,
+        "colors": 97,
+        "file": "avatar_types__adult_female_s141.png"
+      },
+      {
+        "index": 142,
+        "w": 27,
+        "h": 36,
+        "ox": -13.12,
+        "oy": -17.44,
+        "colors": 100,
+        "file": "avatar_types__adult_female_s142.png"
+      },
+      {
+        "index": 143,
+        "w": 69,
+        "h": 131,
+        "ox": 0.0,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s143.png"
+      },
+      {
+        "index": 144,
+        "w": 69,
+        "h": 131,
+        "ox": -29.81,
+        "oy": -50.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s144.png"
+      },
+      {
+        "index": 145,
+        "w": 31,
+        "h": 35,
+        "ox": -15.31,
+        "oy": -18.44,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s145.png"
+      },
+      {
+        "index": 146,
+        "w": 24,
+        "h": 46,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s146.png"
+      },
+      {
+        "index": 147,
+        "w": 14,
+        "h": 8,
+        "ox": -6.75,
+        "oy": -3.75,
+        "colors": 25,
+        "file": "avatar_types__adult_female_s147.png"
+      },
+      {
+        "index": 148,
+        "w": 106,
+        "h": 102,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s148.png"
+      },
+      {
+        "index": 149,
+        "w": 106,
+        "h": 102,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s149.png"
+      },
+      {
+        "index": 150,
+        "w": 106,
+        "h": 102,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s150.png"
+      },
+      {
+        "index": 151,
+        "w": 106,
+        "h": 102,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s151.png"
+      },
+      {
+        "index": 152,
+        "w": 100,
+        "h": 163,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s152.png"
+      },
+      {
+        "index": 153,
+        "w": 97,
+        "h": 24,
+        "ox": -1.0,
+        "oy": -0.75,
+        "colors": 0,
+        "file": "avatar_types__adult_female_s153.png"
+      },
+      {
+        "index": 154,
+        "w": 61,
+        "h": 25,
+        "ox": -30.12,
+        "oy": -12.06,
+        "colors": 0,
+        "file": "avatar_types__adult_female_s154.png"
+      },
+      {
+        "index": 155,
+        "w": 20,
+        "h": 22,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 67,
+        "file": "avatar_types__adult_female_s155.png"
+      },
+      {
+        "index": 156,
+        "w": 62,
+        "h": 64,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s156.png"
+      },
+      {
+        "index": 157,
+        "w": 66,
+        "h": 66,
+        "ox": -0.75,
+        "oy": 2.19,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s157.png"
+      },
+      {
+        "index": 158,
+        "w": 49,
+        "h": 53,
+        "ox": -0.44,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s158.png"
+      },
+      {
+        "index": 159,
+        "w": 168,
+        "h": 140,
+        "ox": -83.69,
+        "oy": -69.75,
+        "colors": 1,
+        "file": "avatar_types__adult_female_s159.png"
+      },
+      {
+        "index": 160,
+        "w": 107,
+        "h": 162,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s160.png"
+      },
+      {
+        "index": 161,
+        "w": 50,
+        "h": 87,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s161.png"
+      },
+      {
+        "index": 162,
+        "w": 61,
+        "h": 104,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s162.png"
+      },
+      {
+        "index": 163,
+        "w": 50,
+        "h": 87,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s163.png"
+      },
+      {
+        "index": 164,
+        "w": 61,
+        "h": 104,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s164.png"
+      },
+      {
+        "index": 165,
+        "w": 35,
+        "h": 35,
+        "ox": -0.25,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s165.png"
+      },
+      {
+        "index": 166,
+        "w": 41,
+        "h": 52,
+        "ox": -0.44,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_female_s166.png"
+      },
+      {
+        "index": 167,
+        "w": 17,
+        "h": 7,
+        "ox": -0.5,
+        "oy": -0.75,
+        "colors": 27,
+        "file": "avatar_types__adult_female_s167.png"
+      }
+    ]
+  },
+  "avatar_types__adult_male.bin": {
+    "total": 167,
+    "decoded": 165,
+    "sprites": [
+      {
+        "index": 0,
+        "w": 73,
+        "h": 131,
+        "ox": -35.31,
+        "oy": -64.88,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s000.png"
+      },
+      {
+        "index": 1,
+        "w": 111,
+        "h": 122,
+        "ox": -56.31,
+        "oy": -92.5,
+        "colors": 0,
+        "file": "avatar_types__adult_male_s001.png"
+      },
+      {
+        "index": 2,
+        "w": 31,
+        "h": 57,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 110,
+        "file": "avatar_types__adult_male_s002.png"
+      },
+      {
+        "index": 3,
+        "w": 25,
+        "h": 51,
+        "ox": 0.75,
+        "oy": 3.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s003.png"
+      },
+      {
+        "index": 4,
+        "w": 37,
+        "h": 40,
+        "ox": -0.88,
+        "oy": -0.25,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s004.png"
+      },
+      {
+        "index": 5,
+        "w": 32,
+        "h": 56,
+        "ox": 12.5,
+        "oy": 3.0,
+        "colors": 108,
+        "file": "avatar_types__adult_male_s005.png"
+      },
+      {
+        "index": 6,
+        "w": 33,
+        "h": 24,
+        "ox": -22.69,
+        "oy": 12.56,
+        "colors": 0,
+        "file": "avatar_types__adult_male_s006.png"
+      },
+      {
+        "index": 7,
+        "w": 22,
+        "h": 36,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 84,
+        "file": "avatar_types__adult_male_s007.png"
+      },
+      {
+        "index": 8,
+        "w": 31,
+        "h": 16,
+        "ox": -15.0,
+        "oy": -7.5,
+        "colors": 28,
+        "file": "avatar_types__adult_male_s008.png"
+      },
+      {
+        "index": 9,
+        "w": 9,
+        "h": 9,
+        "ox": -0.5,
+        "oy": -0.75,
+        "colors": 27,
+        "file": "avatar_types__adult_male_s009.png"
+      },
+      {
+        "index": 10,
+        "w": 31,
+        "h": 8,
+        "ox": -15.31,
+        "oy": -3.5,
+        "colors": 1,
+        "file": "avatar_types__adult_male_s010.png"
+      },
+      {
+        "index": 11,
+        "w": 71,
+        "h": 62,
+        "ox": 0.0,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s011.png"
+      },
+      {
+        "index": 12,
+        "w": 47,
+        "h": 47,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s012.png"
+      },
+      {
+        "index": 13,
+        "w": 54,
+        "h": 62,
+        "ox": -1.0,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s013.png"
+      },
+      {
+        "index": 14,
+        "w": 37,
+        "h": 31,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 5,
+        "file": "avatar_types__adult_male_s014.png"
+      },
+      {
+        "index": 15,
+        "w": 93,
+        "h": 105,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s015.png"
+      },
+      {
+        "index": 16,
+        "w": 93,
+        "h": 105,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s016.png"
+      },
+      {
+        "index": 17,
+        "w": 99,
+        "h": 178,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s017.png"
+      },
+      {
+        "index": 18,
+        "w": 45,
+        "h": 92,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s018.png"
+      },
+      {
+        "index": 19,
+        "w": 39,
+        "h": 58,
+        "ox": -17.44,
+        "oy": -30.62,
+        "colors": 59,
+        "file": "avatar_types__adult_male_s019.png"
+      },
+      {
+        "index": 20,
+        "w": 134,
+        "h": 133,
+        "ox": -66.81,
+        "oy": -65.94,
+        "colors": 60,
+        "file": "avatar_types__adult_male_s020.png"
+      },
+      {
+        "index": 21,
+        "w": 25,
+        "h": 6,
+        "ox": -10.56,
+        "oy": 11.5,
+        "colors": 9,
+        "file": "avatar_types__adult_male_s021.png"
+      },
+      {
+        "index": 22,
+        "w": 37,
+        "h": 11,
+        "ox": -19.81,
+        "oy": -13.0,
+        "colors": 43,
+        "file": "avatar_types__adult_male_s022.png"
+      },
+      {
+        "index": 23,
+        "w": 18,
+        "h": 5,
+        "ox": -10.56,
+        "oy": 11.5,
+        "colors": 4,
+        "file": "avatar_types__adult_male_s023.png"
+      },
+      {
+        "index": 24,
+        "w": 37,
+        "h": 22,
+        "ox": -19.81,
+        "oy": -13.0,
+        "colors": 82,
+        "file": "avatar_types__adult_male_s024.png"
+      },
+      {
+        "index": 25,
+        "w": 113,
+        "h": 112,
+        "ox": -61.12,
+        "oy": -50.5,
+        "colors": 4,
+        "file": "avatar_types__adult_male_s025.png"
+      },
+      {
+        "index": 26,
+        "w": 76,
+        "h": 79,
+        "ox": -32.88,
+        "oy": -37.5,
+        "colors": 0,
+        "file": "avatar_types__adult_male_s026.png"
+      },
+      {
+        "index": 27,
+        "w": 821,
+        "h": 601,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 0,
+        "file": "avatar_types__adult_male_s027.png"
+      },
+      {
+        "index": 28,
+        "w": 26,
+        "h": 24,
+        "ox": -0.25,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s028.png"
+      },
+      {
+        "index": 29,
+        "w": 23,
+        "h": 24,
+        "ox": 0.25,
+        "oy": -0.12,
+        "colors": 61,
+        "file": "avatar_types__adult_male_s029.png"
+      },
+      {
+        "index": 30,
+        "w": 23,
+        "h": 13,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 26,
+        "file": "avatar_types__adult_male_s030.png"
+      },
+      {
+        "index": 31,
+        "w": 21,
+        "h": 22,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 34,
+        "file": "avatar_types__adult_male_s031.png"
+      },
+      {
+        "index": 32,
+        "w": 29,
+        "h": 27,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 12,
+        "file": "avatar_types__adult_male_s032.png"
+      },
+      {
+        "index": 33,
+        "w": 22,
+        "h": 27,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 53,
+        "file": "avatar_types__adult_male_s033.png"
+      },
+      {
+        "index": 34,
+        "w": 7,
+        "h": 8,
+        "ox": -0.5,
+        "oy": -0.75,
+        "colors": 23,
+        "file": "avatar_types__adult_male_s034.png"
+      },
+      {
+        "index": 35,
+        "w": 38,
+        "h": 52,
+        "ox": -0.75,
+        "oy": 1.25,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s035.png"
+      },
+      {
+        "index": 36,
+        "w": 76,
+        "h": 60,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s036.png"
+      },
+      {
+        "index": 37,
+        "w": 49,
+        "h": 42,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s037.png"
+      },
+      {
+        "index": 38,
+        "w": 30,
+        "h": 43,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s038.png"
+      },
+      {
+        "index": 39,
+        "w": 31,
+        "h": 16,
+        "ox": -15.31,
+        "oy": -7.81,
+        "colors": 39,
+        "file": "avatar_types__adult_male_s039.png"
+      },
+      {
+        "index": 41,
+        "w": 93,
+        "h": 105,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s041.png"
+      },
+      {
+        "index": 42,
+        "w": 93,
+        "h": 105,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s042.png"
+      },
+      {
+        "index": 43,
+        "w": 43,
+        "h": 11,
+        "ox": -17.19,
+        "oy": 1.12,
+        "colors": 1,
+        "file": "avatar_types__adult_male_s043.png"
+      },
+      {
+        "index": 44,
+        "w": 13,
+        "h": 13,
+        "ox": -6.12,
+        "oy": -6.19,
+        "colors": 41,
+        "file": "avatar_types__adult_male_s044.png"
+      },
+      {
+        "index": 45,
+        "w": 29,
+        "h": 25,
+        "ox": -14.19,
+        "oy": -12.5,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s045.png"
+      },
+      {
+        "index": 46,
+        "w": 29,
+        "h": 25,
+        "ox": -14.19,
+        "oy": -12.5,
+        "colors": 84,
+        "file": "avatar_types__adult_male_s046.png"
+      },
+      {
+        "index": 47,
+        "w": 71,
+        "h": 59,
+        "ox": -0.95,
+        "oy": -0.95,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s047.png"
+      },
+      {
+        "index": 48,
+        "w": 60,
+        "h": 56,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s048.png"
+      },
+      {
+        "index": 49,
+        "w": 8,
+        "h": 8,
+        "ox": 0.0,
+        "oy": -0.5,
+        "colors": 23,
+        "file": "avatar_types__adult_male_s049.png"
+      },
+      {
+        "index": 50,
+        "w": 9,
+        "h": 9,
+        "ox": -0.5,
+        "oy": -0.75,
+        "colors": 32,
+        "file": "avatar_types__adult_male_s050.png"
+      },
+      {
+        "index": 51,
+        "w": 8,
+        "h": 8,
+        "ox": 0.0,
+        "oy": -0.5,
+        "colors": 23,
+        "file": "avatar_types__adult_male_s051.png"
+      },
+      {
+        "index": 52,
+        "w": 49,
+        "h": 41,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s052.png"
+      },
+      {
+        "index": 53,
+        "w": 30,
+        "h": 10,
+        "ox": -15.12,
+        "oy": -14.94,
+        "colors": 37,
+        "file": "avatar_types__adult_male_s053.png"
+      },
+      {
+        "index": 54,
+        "w": 28,
+        "h": 15,
+        "ox": -13.56,
+        "oy": -6.88,
+        "colors": 51,
+        "file": "avatar_types__adult_male_s054.png"
+      },
+      {
+        "index": 55,
+        "w": 34,
+        "h": 18,
+        "ox": -15.25,
+        "oy": -14.44,
+        "colors": 94,
+        "file": "avatar_types__adult_male_s055.png"
+      },
+      {
+        "index": 56,
+        "w": 12,
+        "h": 18,
+        "ox": -5.38,
+        "oy": -8.75,
+        "colors": 32,
+        "file": "avatar_types__adult_male_s056.png"
+      },
+      {
+        "index": 57,
+        "w": 94,
+        "h": 69,
+        "ox": -0.75,
+        "oy": 3.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s057.png"
+      },
+      {
+        "index": 58,
+        "w": 105,
+        "h": 78,
+        "ox": -0.75,
+        "oy": -0.5,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s058.png"
+      },
+      {
+        "index": 59,
+        "w": 102,
+        "h": 95,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 24,
+        "file": "avatar_types__adult_male_s059.png"
+      },
+      {
+        "index": 60,
+        "w": 24,
+        "h": 24,
+        "ox": -11.81,
+        "oy": -11.5,
+        "colors": 94,
+        "file": "avatar_types__adult_male_s060.png"
+      },
+      {
+        "index": 61,
+        "w": 21,
+        "h": 24,
+        "ox": -10.0,
+        "oy": -11.31,
+        "colors": 93,
+        "file": "avatar_types__adult_male_s061.png"
+      },
+      {
+        "index": 62,
+        "w": 25,
+        "h": 22,
+        "ox": -11.94,
+        "oy": -10.44,
+        "colors": 88,
+        "file": "avatar_types__adult_male_s062.png"
+      },
+      {
+        "index": 63,
+        "w": 20,
+        "h": 24,
+        "ox": -6.19,
+        "oy": -8.5,
+        "colors": 100,
+        "file": "avatar_types__adult_male_s063.png"
+      },
+      {
+        "index": 64,
+        "w": 35,
+        "h": 20,
+        "ox": -11.75,
+        "oy": 0.19,
+        "colors": 13,
+        "file": "avatar_types__adult_male_s064.png"
+      },
+      {
+        "index": 65,
+        "w": 30,
+        "h": 14,
+        "ox": -17.31,
+        "oy": -16.06,
+        "colors": 38,
+        "file": "avatar_types__adult_male_s065.png"
+      },
+      {
+        "index": 66,
+        "w": 23,
+        "h": 5,
+        "ox": -11.31,
+        "oy": 3.44,
+        "colors": 3,
+        "file": "avatar_types__adult_male_s066.png"
+      },
+      {
+        "index": 67,
+        "w": 48,
+        "h": 48,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s067.png"
+      },
+      {
+        "index": 68,
+        "w": 105,
+        "h": 102,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s068.png"
+      },
+      {
+        "index": 69,
+        "w": 51,
+        "h": 44,
+        "ox": -1.0,
+        "oy": -0.96,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s069.png"
+      },
+      {
+        "index": 70,
+        "w": 31,
+        "h": 16,
+        "ox": -15.31,
+        "oy": -7.81,
+        "colors": 39,
+        "file": "avatar_types__adult_male_s070.png"
+      },
+      {
+        "index": 71,
+        "w": 26,
+        "h": 21,
+        "ox": -12.5,
+        "oy": -9.88,
+        "colors": 13,
+        "file": "avatar_types__adult_male_s071.png"
+      },
+      {
+        "index": 72,
+        "w": 37,
+        "h": 44,
+        "ox": -17.75,
+        "oy": -20.81,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s072.png"
+      },
+      {
+        "index": 73,
+        "w": 30,
+        "h": 17,
+        "ox": -16.31,
+        "oy": -11.06,
+        "colors": 74,
+        "file": "avatar_types__adult_male_s073.png"
+      },
+      {
+        "index": 74,
+        "w": 32,
+        "h": 20,
+        "ox": -16.31,
+        "oy": -11.06,
+        "colors": 78,
+        "file": "avatar_types__adult_male_s074.png"
+      },
+      {
+        "index": 75,
+        "w": 33,
+        "h": 20,
+        "ox": -17.56,
+        "oy": -11.06,
+        "colors": 83,
+        "file": "avatar_types__adult_male_s075.png"
+      },
+      {
+        "index": 76,
+        "w": 20,
+        "h": 20,
+        "ox": -9.25,
+        "oy": -9.38,
+        "colors": 69,
+        "file": "avatar_types__adult_male_s076.png"
+      },
+      {
+        "index": 77,
+        "w": 30,
+        "h": 15,
+        "ox": -16.31,
+        "oy": -9.06,
+        "colors": 36,
+        "file": "avatar_types__adult_male_s077.png"
+      },
+      {
+        "index": 78,
+        "w": 32,
+        "h": 18,
+        "ox": -16.31,
+        "oy": -9.06,
+        "colors": 40,
+        "file": "avatar_types__adult_male_s078.png"
+      },
+      {
+        "index": 79,
+        "w": 30,
+        "h": 15,
+        "ox": -16.31,
+        "oy": -9.06,
+        "colors": 35,
+        "file": "avatar_types__adult_male_s079.png"
+      },
+      {
+        "index": 80,
+        "w": 21,
+        "h": 25,
+        "ox": -9.94,
+        "oy": -11.75,
+        "colors": 76,
+        "file": "avatar_types__adult_male_s080.png"
+      },
+      {
+        "index": 81,
+        "w": 31,
+        "h": 16,
+        "ox": -15.31,
+        "oy": -7.81,
+        "colors": 39,
+        "file": "avatar_types__adult_male_s081.png"
+      },
+      {
+        "index": 82,
+        "w": 34,
+        "h": 30,
+        "ox": -18.06,
+        "oy": -12.31,
+        "colors": 84,
+        "file": "avatar_types__adult_male_s082.png"
+      },
+      {
+        "index": 83,
+        "w": 34,
+        "h": 30,
+        "ox": -18.06,
+        "oy": -12.31,
+        "colors": 83,
+        "file": "avatar_types__adult_male_s083.png"
+      },
+      {
+        "index": 84,
+        "w": 160,
+        "h": 161,
+        "ox": 11.44,
+        "oy": 30.12,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s084.png"
+      },
+      {
+        "index": 85,
+        "w": 190,
+        "h": 172,
+        "ox": -1.31,
+        "oy": -0.12,
+        "colors": 0,
+        "file": "avatar_types__adult_male_s085.png"
+      },
+      {
+        "index": 86,
+        "w": 222,
+        "h": 289,
+        "ox": -34.31,
+        "oy": -131.94,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s086.png"
+      },
+      {
+        "index": 87,
+        "w": 290,
+        "h": 221,
+        "ox": -85.56,
+        "oy": -155.69,
+        "colors": 0,
+        "file": "avatar_types__adult_male_s087.png"
+      },
+      {
+        "index": 88,
+        "w": 43,
+        "h": 69,
+        "ox": -72.31,
+        "oy": -8.44,
+        "colors": 1,
+        "file": "avatar_types__adult_male_s088.png"
+      },
+      {
+        "index": 89,
+        "w": 90,
+        "h": 117,
+        "ox": -102.06,
+        "oy": -35.94,
+        "colors": 1,
+        "file": "avatar_types__adult_male_s089.png"
+      },
+      {
+        "index": 90,
+        "w": 23,
+        "h": 86,
+        "ox": -60.56,
+        "oy": 15.56,
+        "colors": 1,
+        "file": "avatar_types__adult_male_s090.png"
+      },
+      {
+        "index": 91,
+        "w": 23,
+        "h": 107,
+        "ox": -60.31,
+        "oy": 15.56,
+        "colors": 1,
+        "file": "avatar_types__adult_male_s091.png"
+      },
+      {
+        "index": 92,
+        "w": 23,
+        "h": 83,
+        "ox": -60.31,
+        "oy": 39.81,
+        "colors": 1,
+        "file": "avatar_types__adult_male_s092.png"
+      },
+      {
+        "index": 93,
+        "w": 23,
+        "h": 58,
+        "ox": -60.31,
+        "oy": 64.06,
+        "colors": 1,
+        "file": "avatar_types__adult_male_s093.png"
+      },
+      {
+        "index": 95,
+        "w": 42,
+        "h": 40,
+        "ox": -20.44,
+        "oy": -19.25,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s095.png"
+      },
+      {
+        "index": 96,
+        "w": 36,
+        "h": 38,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s096.png"
+      },
+      {
+        "index": 97,
+        "w": 41,
+        "h": 39,
+        "ox": -18.94,
+        "oy": -19.12,
+        "colors": 116,
+        "file": "avatar_types__adult_male_s097.png"
+      },
+      {
+        "index": 98,
+        "w": 22,
+        "h": 53,
+        "ox": 2.9,
+        "oy": 0.0,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s098.png"
+      },
+      {
+        "index": 99,
+        "w": 22,
+        "h": 53,
+        "ox": -0.95,
+        "oy": -0.95,
+        "colors": 116,
+        "file": "avatar_types__adult_male_s099.png"
+      },
+      {
+        "index": 100,
+        "w": 32,
+        "h": 41,
+        "ox": -15.81,
+        "oy": -20.0,
+        "colors": 109,
+        "file": "avatar_types__adult_male_s100.png"
+      },
+      {
+        "index": 101,
+        "w": 22,
+        "h": 44,
+        "ox": -9.75,
+        "oy": -21.38,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s101.png"
+      },
+      {
+        "index": 102,
+        "w": 87,
+        "h": 39,
+        "ox": -42.75,
+        "oy": -18.81,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s102.png"
+      },
+      {
+        "index": 103,
+        "w": 28,
+        "h": 15,
+        "ox": -13.56,
+        "oy": -6.88,
+        "colors": 66,
+        "file": "avatar_types__adult_male_s103.png"
+      },
+      {
+        "index": 104,
+        "w": 29,
+        "h": 46,
+        "ox": -13.94,
+        "oy": -22.25,
+        "colors": 108,
+        "file": "avatar_types__adult_male_s104.png"
+      },
+      {
+        "index": 105,
+        "w": 26,
+        "h": 44,
+        "ox": -12.06,
+        "oy": -21.56,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s105.png"
+      },
+      {
+        "index": 106,
+        "w": 22,
+        "h": 38,
+        "ox": -10.69,
+        "oy": -18.31,
+        "colors": 111,
+        "file": "avatar_types__adult_male_s106.png"
+      },
+      {
+        "index": 107,
+        "w": 29,
+        "h": 49,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 88,
+        "file": "avatar_types__adult_male_s107.png"
+      },
+      {
+        "index": 108,
+        "w": 16,
+        "h": 18,
+        "ox": -7.56,
+        "oy": -8.44,
+        "colors": 42,
+        "file": "avatar_types__adult_male_s108.png"
+      },
+      {
+        "index": 109,
+        "w": 35,
+        "h": 75,
+        "ox": -7.12,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s109.png"
+      },
+      {
+        "index": 110,
+        "w": 28,
+        "h": 18,
+        "ox": -12.06,
+        "oy": -9.0,
+        "colors": 10,
+        "file": "avatar_types__adult_male_s110.png"
+      },
+      {
+        "index": 111,
+        "w": 32,
+        "h": 50,
+        "ox": -15.62,
+        "oy": -24.31,
+        "colors": 114,
+        "file": "avatar_types__adult_male_s111.png"
+      },
+      {
+        "index": 112,
+        "w": 14,
+        "h": 5,
+        "ox": -6.56,
+        "oy": 0.0,
+        "colors": 2,
+        "file": "avatar_types__adult_male_s112.png"
+      },
+      {
+        "index": 113,
+        "w": 14,
+        "h": 5,
+        "ox": -2.31,
+        "oy": 0.25,
+        "colors": 2,
+        "file": "avatar_types__adult_male_s113.png"
+      },
+      {
+        "index": 114,
+        "w": 14,
+        "h": 5,
+        "ox": -5.0,
+        "oy": -43.19,
+        "colors": 1,
+        "file": "avatar_types__adult_male_s114.png"
+      },
+      {
+        "index": 115,
+        "w": 468,
+        "h": 149,
+        "ox": -228.62,
+        "oy": 84.0,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s115.png"
+      },
+      {
+        "index": 116,
+        "w": 77,
+        "h": 106,
+        "ox": -34.31,
+        "oy": -42.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s116.png"
+      },
+      {
+        "index": 117,
+        "w": 32,
+        "h": 50,
+        "ox": -15.62,
+        "oy": -24.31,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s117.png"
+      },
+      {
+        "index": 118,
+        "w": 77,
+        "h": 106,
+        "ox": -41.06,
+        "oy": -42.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s118.png"
+      },
+      {
+        "index": 119,
+        "w": 32,
+        "h": 50,
+        "ox": -15.75,
+        "oy": -24.31,
+        "colors": 119,
+        "file": "avatar_types__adult_male_s119.png"
+      },
+      {
+        "index": 120,
+        "w": 42,
+        "h": 40,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s120.png"
+      },
+      {
+        "index": 121,
+        "w": 22,
+        "h": 8,
+        "ox": -0.88,
+        "oy": -0.75,
+        "colors": 34,
+        "file": "avatar_types__adult_male_s121.png"
+      },
+      {
+        "index": 122,
+        "w": 11,
+        "h": 6,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 18,
+        "file": "avatar_types__adult_male_s122.png"
+      },
+      {
+        "index": 123,
+        "w": 6,
+        "h": 8,
+        "ox": -2.5,
+        "oy": -3.69,
+        "colors": 3,
+        "file": "avatar_types__adult_male_s123.png"
+      },
+      {
+        "index": 124,
+        "w": 20,
+        "h": 4,
+        "ox": -9.38,
+        "oy": -1.75,
+        "colors": 2,
+        "file": "avatar_types__adult_male_s124.png"
+      },
+      {
+        "index": 125,
+        "w": 22,
+        "h": 5,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 2,
+        "file": "avatar_types__adult_male_s125.png"
+      },
+      {
+        "index": 126,
+        "w": 20,
+        "h": 4,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 2,
+        "file": "avatar_types__adult_male_s126.png"
+      },
+      {
+        "index": 127,
+        "w": 16,
+        "h": 12,
+        "ox": -7.38,
+        "oy": -5.56,
+        "colors": 59,
+        "file": "avatar_types__adult_male_s127.png"
+      },
+      {
+        "index": 128,
+        "w": 14,
+        "h": 12,
+        "ox": -6.81,
+        "oy": -5.19,
+        "colors": 2,
+        "file": "avatar_types__adult_male_s128.png"
+      },
+      {
+        "index": 129,
+        "w": 16,
+        "h": 6,
+        "ox": -7.38,
+        "oy": -2.56,
+        "colors": 22,
+        "file": "avatar_types__adult_male_s129.png"
+      },
+      {
+        "index": 130,
+        "w": 7,
+        "h": 5,
+        "ox": -2.81,
+        "oy": -1.06,
+        "colors": 1,
+        "file": "avatar_types__adult_male_s130.png"
+      },
+      {
+        "index": 131,
+        "w": 15,
+        "h": 8,
+        "ox": -7.19,
+        "oy": -3.56,
+        "colors": 37,
+        "file": "avatar_types__adult_male_s131.png"
+      },
+      {
+        "index": 132,
+        "w": 14,
+        "h": 5,
+        "ox": -6.25,
+        "oy": -2.12,
+        "colors": 18,
+        "file": "avatar_types__adult_male_s132.png"
+      },
+      {
+        "index": 133,
+        "w": 73,
+        "h": 139,
+        "ox": -0.25,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s133.png"
+      },
+      {
+        "index": 134,
+        "w": 8,
+        "h": 8,
+        "ox": -0.5,
+        "oy": -0.75,
+        "colors": 26,
+        "file": "avatar_types__adult_male_s134.png"
+      },
+      {
+        "index": 135,
+        "w": 73,
+        "h": 139,
+        "ox": -33.56,
+        "oy": -57.0,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s135.png"
+      },
+      {
+        "index": 136,
+        "w": 8,
+        "h": 8,
+        "ox": -3.25,
+        "oy": -3.44,
+        "colors": 24,
+        "file": "avatar_types__adult_male_s136.png"
+      },
+      {
+        "index": 137,
+        "w": 54,
+        "h": 42,
+        "ox": -0.75,
+        "oy": 0.0,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s137.png"
+      },
+      {
+        "index": 138,
+        "w": 83,
+        "h": 145,
+        "ox": -1.0,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s138.png"
+      },
+      {
+        "index": 139,
+        "w": 83,
+        "h": 145,
+        "ox": -38.56,
+        "oy": -64.0,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s139.png"
+      },
+      {
+        "index": 140,
+        "w": 46,
+        "h": 41,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s140.png"
+      },
+      {
+        "index": 141,
+        "w": 24,
+        "h": 46,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s141.png"
+      },
+      {
+        "index": 142,
+        "w": 106,
+        "h": 102,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s142.png"
+      },
+      {
+        "index": 143,
+        "w": 106,
+        "h": 102,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s143.png"
+      },
+      {
+        "index": 144,
+        "w": 106,
+        "h": 102,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s144.png"
+      },
+      {
+        "index": 145,
+        "w": 106,
+        "h": 102,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s145.png"
+      },
+      {
+        "index": 146,
+        "w": 100,
+        "h": 163,
+        "ox": -0.88,
+        "oy": -0.88,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s146.png"
+      },
+      {
+        "index": 147,
+        "w": 27,
+        "h": 24,
+        "ox": -13.88,
+        "oy": -11.0,
+        "colors": 35,
+        "file": "avatar_types__adult_male_s147.png"
+      },
+      {
+        "index": 148,
+        "w": 97,
+        "h": 24,
+        "ox": -1.0,
+        "oy": -0.75,
+        "colors": 0,
+        "file": "avatar_types__adult_male_s148.png"
+      },
+      {
+        "index": 149,
+        "w": 61,
+        "h": 25,
+        "ox": -30.12,
+        "oy": -12.06,
+        "colors": 0,
+        "file": "avatar_types__adult_male_s149.png"
+      },
+      {
+        "index": 150,
+        "w": 19,
+        "h": 5,
+        "ox": -9.06,
+        "oy": -2.25,
+        "colors": 18,
+        "file": "avatar_types__adult_male_s150.png"
+      },
+      {
+        "index": 151,
+        "w": 23,
+        "h": 7,
+        "ox": -10.88,
+        "oy": -3.44,
+        "colors": 38,
+        "file": "avatar_types__adult_male_s151.png"
+      },
+      {
+        "index": 152,
+        "w": 8,
+        "h": 7,
+        "ox": -3.69,
+        "oy": -2.88,
+        "colors": 1,
+        "file": "avatar_types__adult_male_s152.png"
+      },
+      {
+        "index": 153,
+        "w": 26,
+        "h": 34,
+        "ox": -0.75,
+        "oy": -0.5,
+        "colors": 1,
+        "file": "avatar_types__adult_male_s153.png"
+      },
+      {
+        "index": 154,
+        "w": 77,
+        "h": 105,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s154.png"
+      },
+      {
+        "index": 155,
+        "w": 77,
+        "h": 105,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s155.png"
+      },
+      {
+        "index": 156,
+        "w": 58,
+        "h": 106,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s156.png"
+      },
+      {
+        "index": 157,
+        "w": 83,
+        "h": 113,
+        "ox": -1.19,
+        "oy": 3.62,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s157.png"
+      },
+      {
+        "index": 158,
+        "w": 60,
+        "h": 91,
+        "ox": -28.5,
+        "oy": -43.31,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s158.png"
+      },
+      {
+        "index": 159,
+        "w": 79,
+        "h": 134,
+        "ox": -38.75,
+        "oy": -66.38,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s159.png"
+      },
+      {
+        "index": 160,
+        "w": 20,
+        "h": 4,
+        "ox": -9.38,
+        "oy": -1.75,
+        "colors": 2,
+        "file": "avatar_types__adult_male_s160.png"
+      },
+      {
+        "index": 161,
+        "w": 50,
+        "h": 87,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s161.png"
+      },
+      {
+        "index": 162,
+        "w": 61,
+        "h": 105,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s162.png"
+      },
+      {
+        "index": 163,
+        "w": 50,
+        "h": 87,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s163.png"
+      },
+      {
+        "index": 164,
+        "w": 61,
+        "h": 105,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s164.png"
+      },
+      {
+        "index": 165,
+        "w": 69,
+        "h": 57,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s165.png"
+      },
+      {
+        "index": 166,
+        "w": 62,
+        "h": 67,
+        "ox": -0.75,
+        "oy": -0.75,
+        "colors": 127,
+        "file": "avatar_types__adult_male_s166.png"
+      }
+    ]
+  },
+  "environment__critters__hen.bin": {
+    "total": 8,
+    "decoded": 5,
+    "sprites": [
+      {
+        "index": 0,
+        "w": 93,
+        "h": 78,
+        "ox": -41.94,
+        "oy": -68.5,
+        "colors": 127,
+        "file": "environment__critters__hen_s000.png"
+      },
+      {
+        "index": 1,
+        "w": 94,
+        "h": 78,
+        "ox": -46.88,
+        "oy": -68.5,
+        "colors": 127,
+        "file": "environment__critters__hen_s001.png"
+      },
+      {
+        "index": 2,
+        "w": 94,
+        "h": 78,
+        "ref": true
+      },
+      {
+        "index": 3,
+        "w": 93,
+        "h": 78,
+        "ox": -41.94,
+        "oy": -68.5,
+        "colors": 127,
+        "file": "environment__critters__hen_s003.png"
+      },
+      {
+        "index": 4,
+        "w": 86,
+        "h": 78,
+        "ox": -42.88,
+        "oy": -68.25,
+        "colors": 127,
+        "file": "environment__critters__hen_s004.png"
+      },
+      {
+        "index": 5,
+        "w": 86,
+        "h": 78,
+        "ox": -40.81,
+        "oy": -68.25,
+        "colors": 127,
+        "file": "environment__critters__hen_s005.png"
+      },
+      {
+        "index": 6,
+        "w": 86,
+        "h": 78,
+        "ref": true
+      },
+      {
+        "index": 7,
+        "w": 86,
+        "h": 78,
+        "ref": true
+      }
+    ]
+  },
+  "environment__crops__wheat.bin": {
+    "total": 9,
+    "decoded": 6,
+    "sprites": [
+      {
+        "index": 0,
+        "w": 320,
+        "h": 184,
+        "ox": -150.06,
+        "oy": -92.38,
+        "colors": 36,
+        "file": "environment__crops__wheat_s000.png"
+      },
+      {
+        "index": 1,
+        "w": 319,
+        "h": 192,
+        "ox": -148.44,
+        "oy": -107.62,
+        "colors": 62,
+        "file": "environment__crops__wheat_s001.png"
+      },
+      {
+        "index": 2,
+        "w": 341,
+        "h": 269,
+        "ox": -157.5,
+        "oy": -172.12,
+        "colors": 54,
+        "file": "environment__crops__wheat_s002.png"
+      },
+      {
+        "index": 4,
+        "w": 362,
+        "h": 255,
+        "ox": -160.38,
+        "oy": -164.19,
+        "colors": 73,
+        "file": "environment__crops__wheat_s004.png"
+      },
+      {
+        "index": 6,
+        "w": 320,
+        "h": 184,
+        "ox": -150.06,
+        "oy": -92.38,
+        "colors": 139,
+        "file": "environment__crops__wheat_s006.png"
+      },
+      {
+        "index": 7,
+        "w": 319,
+        "h": 192,
+        "ox": -148.44,
+        "oy": -107.62,
+        "colors": 163,
+        "file": "environment__crops__wheat_s007.png"
+      }
+    ]
+  },
+  "environment__decor__decor_tree_large.bin": {
+    "total": 4,
+    "decoded": 1,
+    "sprites": [
+      {
+        "index": 1,
+        "w": 45,
+        "h": 62,
+        "ox": -21.88,
+        "oy": -60.25,
+        "colors": 188,
+        "file": "environment__decor__decor_tree_large_s001.png"
+      },
+      {
+        "index": 3,
+        "w": 322,
+        "h": 461,
+        "ref": true
+      }
+    ]
+  }
+}
