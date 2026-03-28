@@ -1,0 +1,32 @@
+{
+	"font":"goodfoot_currency_font.ttf",
+	"size":"1",
+	"stroke":"0",
+	"mainrange":""
+
+	"special0":"NotoSansDevanagari-Regular.ttf",
+	"special0scalex":"1.0",
+	"special0scaley":"1.0",
+	"special0range":"",
+
+	"special1":"NotoSansThai-Regular.ttf",
+	"special1scalex":"1.0",
+	"special1scaley":"1.0",
+	"special1range":"",
+
+	"special2":"NotoKufiArabic-Regular.ttf",
+	"special2scalex":"1.0",
+	"special2scaley":"1.0",
+	"special2range":""
+
+	"special3":"NotoSansSymbols-Regular.ttf",
+	"special3scalex":"1.0",
+	"special3scaley":"1.0",
+	"special3range":"",
+
+	"fallback":"NotoSansCJKjp-Black.otf",
+	"fallbackscalex":"1.0",
+	"fallbackscaley":"1.0",
+}
+
+

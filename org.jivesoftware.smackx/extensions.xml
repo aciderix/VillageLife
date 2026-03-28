@@ -1,0 +1,8 @@
+<smack>
+  <startupClasses>
+    <className>org.jivesoftware.smackx.disco.ServiceDiscoveryManager</className>
+    <className>org.jivesoftware.smackx.muc.MultiUserChat</className>
+    <className>org.jivesoftware.smackx.ping.PingManager</className>
+    <className>org.jivesoftware.smackx.privacy.PrivacyListManager</className>
+  </startupClasses>
+</smack>
